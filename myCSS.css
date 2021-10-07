@@ -44,3 +44,4 @@ body {
 	height: 50px;
 	text-align: center;
 }
+ul { display: inline-block; text-align: center; }
