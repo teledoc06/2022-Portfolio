@@ -55,3 +55,8 @@ a:hover, a:active, a:focus {
      text-decoration: underline;
 	font: serif; 
 }
+
+ul {
+  list-style-position: inside;
+  text-align: center;
+}
